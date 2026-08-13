@@ -1,7 +1,8 @@
 {
   "canonicalUrl": "https://www.zuiaikaer.com/",
   "designSourceSlug": "figma",
-  "generatedAt": "2026-08-13T03:07:26.720Z",
+  "generatedAt": "2026-08-13T14:53:27.122Z",
+  "publicJsLoaderUrl": "https://kol-js.pages.dev/loader.js",
   "siteId": "site-zuiaikaer-com",
   "templateSlug": "personal-brand-color-blocks",
   "templateVersion": "0.1.0"
